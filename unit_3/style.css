@@ -1,5 +1,8 @@
 body {
 	text-align: "center";
+	background-color: linen;
+	background-size: cover;
+	font-family: "Avenir";
 }
 
 p { 
