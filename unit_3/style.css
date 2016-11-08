@@ -1,20 +1,18 @@
 body {
-	text-align: "center";
-	background-image: url(href="/images/allnaturaldesign.jpg");
-	background-color: linen;
+	text-align: center;
+	background-image: url("allnaturaldesign.jpg");
 	background-size: cover;
-	font-family: "Avenir";
+	background-color: linen;
+	font-family: "Avenir", sans-serif;
 }
 
 p { 
-	font-family: "Avenir", sans-serif;
 	font-size: 24px;
 }
 
 
 h1 {
 	
-	font-family: "Avenir";
 	font-size: 40px;
 	font-weight: bold;
 }
