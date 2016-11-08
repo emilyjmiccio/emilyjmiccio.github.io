@@ -1,15 +1,14 @@
+body {
+	text-align: "center";
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 p { 
 	font-family: "Avenir", sans-serif;
 	font-size: 24px;
 }
 
-body {
-	text-align: "center";
-	background-image: url("../images/allnaturaldesign.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attachment: fixed;
-}
 
 h1 {
 	font-family: "Avenir", sans-serif;
