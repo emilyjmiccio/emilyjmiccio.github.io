@@ -2,6 +2,7 @@ body {
 	text-align: "center";
 	background-repeat: no-repeat;
 	background-position: center;
+	background-color: linen;
 }
 
 p { 
@@ -14,5 +15,4 @@ h1 {
 	font-family: "Avenir", sans-serif;
 	font-size: 40px;
 	font-weight: bold;
-
 }
