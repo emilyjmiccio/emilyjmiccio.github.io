@@ -1,18 +1,19 @@
 p { 
-	font-family: "Oswald", sans-serif;
+	font-family: "Avenir", sans-serif;
 	font-size: 24px;
 }
 
 body {
 	text-align: "center";
-	background-image: url("allnaturaldesign.jpg");
+	background-image: url("../images/allnaturaldesign.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-attachment: fixed;
 }
 
 h1 {
-	font-family: "Oswald", sans-serif;
+	font-family: "Avenir", sans-serif;
 	font-size: 40px;
-	
+	font-weight: bold;
+
 }
