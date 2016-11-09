@@ -1,6 +1,7 @@
 body {
 	font-family: Avenir;
 	text-align: center;
+	background-color: #FFE1A6;
 }
 
 h1 {
@@ -9,4 +10,5 @@ h1 {
 
 h2 {
 	font-size: 25px;
+	font-style: italic;
 }
