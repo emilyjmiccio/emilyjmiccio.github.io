@@ -12,3 +12,8 @@ h2 {
 	font-size: 25px;
 	font-style: italic;
 	}
+
+	ul {
+    text-align: center;
+    list-style-type: none;
+	}
