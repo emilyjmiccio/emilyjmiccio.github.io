@@ -10,11 +10,14 @@ h1 {
 	}
 
 h2 {
-	font-size: 25px;
+	font-size: 35px;
 	font-style: italic;
 	}
 
 	ul {
     text-align: center;
     list-style-type: none;
+	}
+
+p {font size: 20px;
 	}
