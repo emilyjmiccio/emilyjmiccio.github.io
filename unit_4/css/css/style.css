@@ -1,0 +1,24 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background-color: #FFF2D0;
+	}
+
+h1 {
+	font-family: 'Lobster Two', cursive;
+	font-size: 60px;
+	}
+
+h2 {
+	font-size: 35px;
+	font-style: italic;
+	font-weight: Extra-Light Italic;
+	}
+
+	ul {
+    text-align: center;
+    list-style-type: none;
+	}
+
+p {font size: 20px;
+	}
