@@ -27,6 +27,14 @@ main {
 	padding: 20px;
 }
 
+column {
+	width: 30%;
+	height: 300px;
+	padding: 2.5%;
+	margin: 1em;
+	display: inline-block;
+}
+
 footer {
 	background-color: #FFE2B8;
 	border: 1 px black solid;
